@@ -4,7 +4,7 @@
 
 > Github: [https://github.com/ulfmagnetics](https://github.com/ulfmagnetics)
 
-> LinkedIn: [http://www.linkedin.com/in/john-david-berry](www.linkedin.com/in/john-david-berry)
+> LinkedIn: [http://www.linkedin.com/in/john-david-berry](http://www.linkedin.com/in/john-david-berry)
 
 > [Download PDF](john-berry-2016.pdf)
 
