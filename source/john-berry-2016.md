@@ -45,7 +45,7 @@ of while building a product that I love.
 ### Technical {#technical}
 
 1. Ruby (Rails, Sinatra)
-1. Javascript (Node.js)
+1. Javascript (Node.js, Backbone)
 1. Python
 1. Java
 1. RDBMS (MySQL, PostgreSQL)
